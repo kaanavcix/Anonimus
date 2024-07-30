@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anonimus</string>
+    <string name="introduce_login_text">Hello There</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="your_name">Your Name</string>
+    <string name="sign_up_text">Kayıt Ol</string>
+</resources>
